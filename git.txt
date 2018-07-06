@@ -1,0 +1,10 @@
+
+git clone https://github.com/claudiolopesne/Algoritmos.git
+
+git add *
+
+git config user.email "claudiolopes.sistemas@gmail.com"
+
+git commit -m ".."
+
+git push origin master

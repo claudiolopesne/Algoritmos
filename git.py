@@ -11,12 +11,8 @@ while len(msg_commit) < 5:
 # Define um email padrão para este script
 email_padrao = "claudiolopes.sistemas@gmail.com"
 
-# Pede para o usuário informar outro email, caso ele queira
-email = input("Digite enter para manter o {} como padrão ou informe seu e-mail: ".format(email_padrao))
-
 # Se não informar, o script vai usar o padrão
-if email == "":
-    email = email_padrao
+email = email_padrao
 
 # O \n dentro do print funciona como o <br/> no HTML (pula mais uma linha)
 print("\n------------------------------------")

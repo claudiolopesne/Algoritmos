@@ -1,0 +1,43 @@
+
+def mostrarErro2()
+    print("""
+_________
+|       |
+|\t|
+|
+|
+|
+|
+""")
+
+print("""
+_________
+|       |
+|       o
+|      / \
+|
+|
+|
+""")
+
+
+
+if se o erro ==1:
+    mostrarErro1()
+
+elif erro == 2:
+    mostrarErro2()
+
+#pesquisa para incluir no jogo
+
+palavra = "claudio"
+riscos = [" _ "] * len (palavra)
+
+p = 0
+while p < len (palavra):
+  palavra [p]
+
+print (palava)
+print (riscos)
+
+if erro == 1:
